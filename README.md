@@ -46,4 +46,4 @@ System Administrator with **5+ years of experience** managing Linux/Windows serv
 
 ## 🎓 Education & Training
 * **B.Sc Computer Science** | Mahatma Gandhi University, Kerala (2014-2017)
-* **RHCE** (Training Completed)
+* **RHCE** 
